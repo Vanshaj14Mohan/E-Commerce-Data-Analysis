@@ -33,6 +33,15 @@ It includes columns like:
 
 ---
 
+### 📌 Key Learnings
+
+* How to handle and clean e-commerce datasets
+* Deriving actionable insights through visual exploration
+* Enhancing analysis using multiple perspectives per problem
+* Presenting professional and interactive charts using Plotly
+
+---
+
 ### 📌 Example Questions
 
 * Which month had the highest sales?

@@ -64,4 +64,3 @@ E-Commerce Data Analyst | Data Science Enthusiast
 
 ---
 
-Would you like me to save this as a `README.md` file and include it in your project folder?

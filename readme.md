@@ -31,7 +31,7 @@ It includes columns like:
 ### ✅ What’s Covered
 
 * 15 Business Questions
-* 2 Graphs per question for deeper insights
+* 2 Graphs per question for deeper insights, might be more in some questions.
 * Interactive visualizations using Plotly Express and Graph Objects
 
 ---

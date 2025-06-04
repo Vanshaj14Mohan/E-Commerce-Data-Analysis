@@ -1,6 +1,3 @@
-
-
-
 ## 📦 E-Commerce Data Analysis
 
 This project focuses on analyzing e-commerce sales data using Python. It includes 15 key business questions, each answered with two different visualizations to better understand sales patterns, profits, discounts, customer behavior, and more.
@@ -60,7 +57,7 @@ pip install pandas plotly
 ### 🙋‍♂️ Author
 
 **Vanshaj P Mohan**
-E-Commerce Data Analyst | Data Science Enthusiast
+Data Science Enthusiast
 
 ---
 

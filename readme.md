@@ -1,0 +1,67 @@
+
+
+
+## 📦 E-Commerce Data Analysis
+
+This project focuses on analyzing e-commerce sales data using Python. It includes 15 key business questions, each answered with two different visualizations to better understand sales patterns, profits, discounts, customer behavior, and more.
+
+---
+
+### 📂 Dataset
+
+The dataset used is the **Sample Superstore** dataset.
+It includes columns like:
+
+* Order Date, Ship Date
+* Category, Sub-Category
+* Sales, Profit, Discount
+* Customer Region, Segment, etc.
+
+---
+
+### 🛠 Tools & Libraries
+
+* **Python**
+* **Pandas** – for data manipulation
+* **Plotly** – for creating interactive graphs
+* **Jupyter Notebook** – for step-by-step analysis
+
+---
+
+### ✅ What’s Covered
+
+* 15 Business Questions
+* 2 Graphs per question for deeper insights
+* Interactive visualizations using Plotly Express and Graph Objects
+
+---
+
+### 📌 Example Questions
+
+* Which month had the highest sales?
+* What is the sales distribution across categories?
+* Which region or state is most profitable?
+* How does discount affect profit?
+
+---
+
+### ▶️ How to Use
+
+1. Open the `main.ipynb` notebook
+2. Run each cell to see the data analysis and graphs
+3. Make sure you have `pandas` and `plotly` installed
+
+```bash
+pip install pandas plotly
+```
+
+---
+
+### 🙋‍♂️ Author
+
+**Vanshaj P Mohan**
+E-Commerce Data Analyst | Data Science Enthusiast
+
+---
+
+Would you like me to save this as a `README.md` file and include it in your project folder?

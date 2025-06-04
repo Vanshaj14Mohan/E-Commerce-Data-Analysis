@@ -33,7 +33,7 @@ It includes columns like:
 
 ---
 
-### 📌 Key Learnings
+### 🔗 Key Learnings
 
 * How to handle and clean e-commerce datasets
 * Deriving actionable insights through visual exploration

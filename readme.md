@@ -1,6 +1,6 @@
 ## 📦 E-Commerce Data Analysis
 
-This project focuses on analyzing e-commerce sales data using Python. It includes 15 key business questions, each answered with two different visualizations to better understand sales patterns, profits, discounts, customer behavior, and more.
+This project focuses on analyzing e-commerce sales data using Python. It includes 15 key business questions, each answered with two different visualizations to better understanding in some answers the visualization graphs can be more than two, helping in understanding sales patterns, profits, discounts, customer behavior, and more.
 
 ---
 

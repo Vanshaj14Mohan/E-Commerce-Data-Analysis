@@ -10,6 +10,7 @@ The dataset used is the **Sample Superstore** dataset.
 It includes columns like:
 
 * Order Date, Ship Date
+* Ship Mode, City
 * Category, Sub-Category
 * Sales, Profit, Discount
 * Customer Region, Segment, etc.
